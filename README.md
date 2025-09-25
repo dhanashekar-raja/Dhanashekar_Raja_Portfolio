@@ -1,2 +1,2 @@
 # shekar_portfolio
-This is the folder creating to store the sample project for a portfolio.
+Created this folder to store the sample project for Shekar's portfolio.
