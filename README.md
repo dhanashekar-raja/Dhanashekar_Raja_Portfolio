@@ -1,5 +1,4 @@
 # Dhanashekar Raja
-
 **Contact:** Mobile: +91 7411250565 | E-mail: dhanashekar72@gmail.com LinkedIn: https://www.linkedin.com/in/dhanashekar-raja
 
 ## 📌 Professional Summary
@@ -101,5 +100,3 @@ Innovative Technical Writer with 6+ years of experience in IT, specializing in A
 </tr>
 </tbody>
 </table>
-</body>
-</html>
