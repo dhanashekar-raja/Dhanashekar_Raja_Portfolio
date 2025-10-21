@@ -55,16 +55,51 @@ Innovative Technical Writer with 6+ years of experience in IT, specializing in A
 - Refer to the AT&T technical publications such as TP-76300 Installation Standards and 
 - TP-76400 Engineering Standards during the engineering documentation.
 
-## 🎓 Education
-| Degree | Institution | Duration |
-|--------|------------|----------|
-| Postgraduate in Wireless Telecommunications | The Humber Institute of Technology and Advanced Learning, Toronto, Canada | Jan 2021 - Aug 2021 |
-| Postgraduate Diploma in Business Administration | Bangalore University, India | Jul 2018 – Jul 2019 |
-| Bachelor of Engineering in Electronics and Communication | Visvesvaraya Technological University, Bangalore, India | Sep 2011 – Jun 2015 |
-
-## 📜 Certifications
-| Certification | Details |
-|--------------|---------|
-| Technical Writing | Completed through Coursera and authorized by Moscow Institute of Physics and Technology - Credential ID 49JKNYWBH9PW - 2021. |
-| Cloud Computing and Virtualization | Completed at Rooman Technologies - Credential ID 1008107 - 2016. |
-
+<h2 id="education">🎓 Education</h2>
+<table>
+<thead>
+<tr>
+<th>Degree</th>
+<th>Institution</th>
+<th>Duration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Postgraduate in Wireless Telecommunications</td>
+<td>The Humber Institute of Technology and Advanced Learning, Toronto, Canada</td>
+<td>Jan 2021 - Aug 2021</td>
+</tr>
+<tr>
+<td>Postgraduate Diploma in Business Administration</td>
+<td>Bangalore University, India</td>
+<td>Jul 2018 – Jul 2019</td>
+</tr>
+<tr>
+<td>Bachelor of Engineering in Electronics and Communication</td>
+<td>Visvesvaraya Technological University, Bangalore, India</td>
+<td>Sep 2011 – Jun 2015</td>
+</tr>
+</tbody>
+</table>
+<h2 id="certifications">📜 Certifications</h2>
+<table>
+<thead>
+<tr>
+<th>Certification</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Technical Writing</td>
+<td>Completed through Coursera and authorized by Moscow Institute of Physics and Technology - Credential ID 49JKNYWBH9PW - 2021.</td>
+</tr>
+<tr>
+<td>Cloud Computing and Virtualization</td>
+<td>Completed at Rooman Technologies - Credential ID 1008107 - 2016.</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
